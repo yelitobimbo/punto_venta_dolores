@@ -42,7 +42,7 @@ test/
 
 **Alumna:** Yaneli Sánchez Cárdenas · **Grupo:** GTID244
 
-Cada ronda muestra primero la prueba en **rojo** (falla porque el código aún no existe) y después en **verde** (pasa con la implementación). En cada captura se ve la prueba que se ejecuta, el resultado en la terminal, mi nombre y mi foto de perfil.
+Cada ronda muestra primero la prueba en **rojo** (falla porque el código aún no existe) y después en **verde** (pasa con la implementación).
 
 ### Ronda 1
 
